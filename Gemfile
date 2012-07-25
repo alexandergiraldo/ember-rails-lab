@@ -52,4 +52,5 @@ gem "factory_girl_rails", ">= 3.5.0", :group => [:development, :test]
 gem "email_spec", ">= 1.2.1", :group => :test
 gem "simple_form"
 gem "active_model_serializers"
+gem 'ember-rails'
 gem 'pg'
